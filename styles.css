@@ -1,0 +1,14 @@
+#title{
+  background-color: #ff9a00;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.signup{
+  background-color: #ff9a00;
+  text-align: center;
+  margin: auto auto auto auto;
+  padding: 70px;
+}
